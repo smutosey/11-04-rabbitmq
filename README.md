@@ -85,3 +85,8 @@
 > Настройка выполняется 2мя ролями:  
 > - install_rabbitmq - выполняется на всех нодах. В тасках устанавливаются все необходимые пакеты, выполняются первичные настройки и обмен Erlang Cookie  
 > - cluster_setup - выполняется на воркерах для подключения к мастер-ноде в кластер, а также настройка политик.  
+> Результат запуска плейбука:  
+> ![img](https://github.com/smutosey/11-04-rabbitmq/blob/main/img/4-01.png)  
+> ![img](https://github.com/smutosey/11-04-rabbitmq/blob/main/img/4-02.png) 
+> Статус кластера:  
+> ![img](https://github.com/smutosey/11-04-rabbitmq/blob/main/img/4-03.png) 
